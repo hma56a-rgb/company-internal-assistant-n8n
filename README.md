@@ -1,6 +1,6 @@
 # Company Internal Assistant (n8n)
 
-n8n workflow that answers employee questions from company documents over chat and email, in Arabic or English. Sensitive topics are escalated to HR instead of answered by the model.
+n8n workflow that answers employee questions from company documents over chat and email, in English. Sensitive topics are escalated to HR instead of answered by the model.
 
 ## Setup
 
